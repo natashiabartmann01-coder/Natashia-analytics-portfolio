@@ -1,2 +1,2 @@
 # SQL Case Studies
-This folder contains SQL work.
+This folder contains SQL analysis projects.
